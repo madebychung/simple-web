@@ -1,4 +1,4 @@
-provider "aws" {
+provider "aws" {  #프로바이더중요,vmware,azure등
   region = "ap-northeast-2" # 사용할 AWS 리전
 }
 
